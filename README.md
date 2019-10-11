@@ -5,6 +5,8 @@ Just another GitHub "Hello World" project.
 
 Learning how to create/edit/commit branches.
 
-Making a change via VSCode.
+Making a change via VSCode.  This is an update from the Test Branch.
 
-Let's say the master branch has something different here.  It should show a conflict when I go to merge branches.
+Update #2.
+
+Update #3.
